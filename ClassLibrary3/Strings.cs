@@ -72,7 +72,13 @@ namespace ClassLibrary3
         public string Name { get; set; }
         
 
+        ~Strings()
+        {
 
+            //NOT NESSESARY
+
+
+        }
 
 
 
